@@ -1,2 +1,0 @@
-      invoke  active_record
-      remove    db/migrate/20211103114401_add_admin_to_users.rb
